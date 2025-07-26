@@ -7,7 +7,7 @@ import os
 from flask_cors import CORS # Importa a extensão CORS
 from functools import wraps # Importa wraps para o decorador
 
-# Importa as configurações do novo arquivo config.py
+# Importa as configurações do git  novo arquivo config.py
 from config import Config
 
 # Carrega as variáveis de ambiente do .env
