@@ -27,7 +27,7 @@ function LoginForm({ onAuthSuccess, setMessage }) {
   };
 
   return (
-    <form onSubmit={handleSubmit} className="space-y-6 p-4">
+    <form onSubmit={handleSubmit} className="space-y-4">
       {" "}
       {/* Aumentado o espaçamento */}
       <div>
